@@ -1,6 +1,12 @@
 # 🪐 About Me:
 
-I am a second year student at Rensselear Polytechnical Institute, pursuing a BS in Computer Science (concentration in AI, Machine Learning, and Data) and a minor in Finance. 
+My name is Pradeep, and I am a second year student at Rensselear Polytechnical Institute, pursuing a BS in Computer Science (concentration in AI, Machine Learning, and Data) and a minor in Finance!
+
+## ⁉️ What I'm Up To:
+
+- 🤖 Enhancing AI models with Python (Scikit-learn, TensorFlow) and self-teaching LLMs
+- 🗄️ Learning to create complex database systems using SQL and optimizing data management
+- 📚 Sharpening algorithms and problem-solving skills on LeetCode
 
 # 🌐 Socials:
 
