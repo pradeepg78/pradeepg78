@@ -2,6 +2,19 @@
 
 My name is Pradeep, and I am a second year student at Rensselear Polytechnical Institute, pursuing a BS in Computer Science (concentration in AI, Machine Learning, and Data) and a minor in Finance!
 
+```cpp
+#include <iostream>
+#include <string>
+#include <vector>
+
+class Pradeep {
+private:
+    int age = 19;
+public:
+    std::vector<std::string> hobbies = { "Coding!", "Gym", "Trying New Restaurants!", "Hanging Out With Friends", "Music" };
+};
+```
+
 ## ⁉️ What I'm Up To:
 
 - 🤖 Enhancing AI models with Python (Scikit-learn, TensorFlow) and self-teaching LLMs
