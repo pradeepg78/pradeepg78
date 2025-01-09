@@ -7,11 +7,13 @@ My name is Pradeep, and I am a second year student at Rensselear Polytechnical I
 #include <string>
 #include <vector>
 
+using namespace std;
+
 class Pradeep {
 private:
     int age = 19;
 public:
-    std::vector<std::string> hobbies = { "Coding!", "Gym", "Trying New Restaurants!", "Hanging Out With Friends", "Music" };
+    vector<string> hobbies = { "Coding!", "Gym", "Trying New Restaurants!", "Hanging Out With Friends", "Music" };
 };
 ```
 
