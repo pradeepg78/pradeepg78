@@ -1,6 +1,6 @@
 # 🪐 About Me:
 
-My name is Pradeep, and I am a second year student at Rensselear Polytechnical Institute, pursuing a BS in Computer Science (concentration in AI, Machine Learning, and Data) and a minor in Finance!
+My name is Pradeep, and I am a Junior at Rensselear Polytechnical Institute, pursuing a BS in Computer Science (concentration in AI, Machine Learning, and Data) and a minor in Finance!
 
 ```cpp
 #include <iostream>
