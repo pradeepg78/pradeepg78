@@ -20,7 +20,7 @@ public:
 ## ⁉️ What I'm Up To:
 
 - 🤖 Enhancing AI models with Python (Scikit-learn, TensorFlow) and self-teaching LLMs
-- 🛠️ Engineering scalable full-stack systems, implementing backend services, authentication, and database schemas while optimizing performance and data flow
+- 🛠️ Developing full-stack systems with modern frameworks, APIS, and database integration
 - 📚 Sharpening algorithms and problem-solving skills on LeetCode
 
 # 🌐 Socials:
